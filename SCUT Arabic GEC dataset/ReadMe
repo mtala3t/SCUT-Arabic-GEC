@@ -1,1 +1,1 @@
-Arabic grammar error correction training set
+Arabic synthetic dataset consists of 19,152,950 words divided into two sets, training and validation set. However, it increases the number of training datasets that allowing the mural models to access more examples of errors to normalize during training.
