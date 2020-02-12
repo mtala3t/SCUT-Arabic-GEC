@@ -6,12 +6,7 @@ Neural Machine Translation (NMT) has been an out-performing and well-established
 The datasets we used are Qatar Arabic Language Bank (QALB) from the second QALB shared task and Alwatan Arabic articles to generate the synthetic parallel corpus. The data of QALB corpus comes from the online commenters written at Aljazeera Arabic news channel articles. The release of QALB at ANLPACL 2015, includes non-native data comes from Arabic Learners Written Corpus (CERCLL) and some machine translation data is obtained from Wikipedia articles translated in Arabic language using Google translation. The training dataset contains 2 million words annotated and corrected by native Arabic speakers. 
 Alwatan Arabic news articles corpus contains 20,291 articles and 10,000,000 words are categorized into six groups collected from the Omani newspaper. In our work, we generated a training dataset containing 18,061,610 million words in training and validation sets. The fine-tuning set consists of training and validation sets, and we used AQLB test set for testing. The whole training dataset contains 20,285,278 words and divided into a synthetic and authentic set. 
 
-Dataset name             Training       validation   Test 
-SCUT coupes Version 3  	 16,161,900	   1,899,710	   00.00
-QALB 2015	               2,111,918	     111,750	   102,316
-Total	                   18,273,818	   2,011,460	   102,316
-
-SCUT coupes Version 3 avaliable in : 
+SCUT coupes Version 3 avaliable in : http://nlp.qatar.cmu.edu/qalb/ 
 QALB 2015	avaliable in : 
 
 # Model setting 
