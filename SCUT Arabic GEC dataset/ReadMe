@@ -1,2 +1,2 @@
-# Arabic synthetic dataset 
+#Arabic synthetic dataset 
 We developed three synthetic versions based on Arabic text normalization. In the first version, we normalized the source and target sentences. For the second version, we only normalized the target sentence, and kept the source and target sentences in the original format, for the last version. Each one of these versions has the same size, and contents on average 18,061,610‬ words divided into two sets, training and validation set. This increases the model performance by allowing it to access more examples of errors during training. Another advantage, the generated synthetic dataset is free and open access for developers around the world.
