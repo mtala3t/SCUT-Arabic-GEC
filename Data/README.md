@@ -1,4 +1,4 @@
-#Dataset
+# Dataset
 
 The datasets we used are [Qatar Arabic Language Bank](http://nlp.qatar.cmu.edu/qalb/) (QALB) from the second QALB shared task and Alwatan Arabic articles to generate the synthetic parallel corpus. The data of QALB corpus comes from the online commenters written at Aljazeera Arabic news channel articles. The release of QALB at ANLPACL 2015, includes non-native data comes from Arabic Learners Written Corpus (CERCLL) and some machine translation data is obtained from Wikipedia articles translated in Arabic language using Google translation. The training dataset contains 2 million words annotated and corrected by native Arabic speakers.
 
