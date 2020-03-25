@@ -1,1 +1,3 @@
-# :)
+# SCUT Arabic GEC model
+
+Supervised Neural Machine Translation model (NMT) for Arabic Grammar Error Correction (AGEC) called SCUT AGEC. SCUT AGEC is a convolutional sequence-to-sequence model consisting of nine encoder-decoder layers with an attention mechanism. Besides, applied fine-tuning method to continue training the model with an authentic dataset to improve the performance and get more efficient results. Furthermore, we introduce a an unsupervised method to generate a large-scale synthetic dataset based on confusion function to increase the amount of training set. Convolutional Natural Networks (CNN), gives our model the ability to joint feature extraction and classification in one task, and efficient capturing of the local context. Moreover, it is easy to obtain long-term dependencies because of convolutional layers staking.
